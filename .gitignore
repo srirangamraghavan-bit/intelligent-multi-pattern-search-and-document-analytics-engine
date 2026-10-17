@@ -1,0 +1,15 @@
+# Byte-code
+*.class
+bin/
+
+# Eclipse / IDE metadata
+.settings/
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
